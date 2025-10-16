@@ -59,10 +59,10 @@ endmodule
 Developed by: Rytham Raj  RegisterNumber: 25012528
 
 **RTL LOGIC FOR FLIPFLOPS**
-[WhatsApp Image 2025-10-16 at 23 13 55_05823091](https://github.com/user-attachments/assets/cdaf5ed1-1415-4cd2-84c8-02d9e9d5f553)
+![WhatsApp Image 2025-10-16 at 23 13 55_05823091](https://github.com/user-attachments/assets/cdaf5ed1-1415-4cd2-84c8-02d9e9d5f553)
 
 **TIMING DIGRAMS**
-[WhatsApp Image 2025-10-16 at 23 13 56_4db8a025](https://github.com/user-attachments/assets/652363e7-8a94-471c-bd66-a79d56a8b440)
+![WhatsApp Image 2025-10-16 at 23 13 56_4db8a025](https://github.com/user-attachments/assets/652363e7-8a94-471c-bd66-a79d56a8b440)
 FOR FLIP FLOPS**
 
 **RESULTS**
